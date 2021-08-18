@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tejas Gupta
+- 👀 Web Development
+- 💞️ I’m looking to collaborate in the Front-End of Websites.
